@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 """
 
 from pathlib import Path
+import os
 
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
 
